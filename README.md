@@ -1,10 +1,9 @@
-# IE0005 Toxic Comment Multi-Label Classification
+# Toxic Comment Multi-Label Classification
 
 An end-to-end machine learning project for detecting toxic Wikipedia comments
 across six overlapping toxicity categories.
 
-This project was completed by **DSAI EL17** as part of the IE0005 mini project.
-It explores how traditional natural language processing techniques can support
+This project explores how traditional natural language processing techniques can support
 content moderation while also examining the limitations and fairness risks of
 automated toxicity detection.
 

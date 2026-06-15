@@ -216,11 +216,3 @@ effects, but it does not remove bias learned from the training data.
 
 6. Open `IE0005-toxic-comment-classification.ipynb` and run the cells in order.
 
-## Team Contributions
-
-| Team Member | Contribution |
-| --- | --- |
-| Sriman | Dataset selection, exploratory data analysis, visualisation, cleaning, feature engineering, and TF-IDF |
-| Aravinth | Naive Bayes baseline, Logistic Regression, threshold pipeline, and bias evaluation |
-| Lavantika | Precision, recall, F1-score, ROC-AUC evaluation, threshold analysis, and model comparison |
-| Louise | Optimisation pipeline, stratified splitting, oversampling, and hyperparameter tuning |
